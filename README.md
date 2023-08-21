@@ -1,8 +1,8 @@
-# 100-Days-Of-Coding-Challenege
+# 100-Days-Of-Coding-Challenge
 LeetCode 100 days Coding Challenge.
 
 ## Question No.1:
-    ### Given a string s, check if it can be constructed by taking a substring of it and appending multiple copies of the substring together.
+Given a string s, check if it can be constructed by taking a substring of it and appending multiple copies of the substring together.
 Example 1:
 Input: s = "abab"
 Output: true
